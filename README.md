@@ -5,4 +5,4 @@ Required hardware/components
 - Passive buzzer
 - loud active buzzer (85dB recommended)
 - Button
-- Potentiometer (optional, adding this allows the device to the powered by USB powerbank.)
+- 200Ohm Potentiometer (optional, adding this allows the device to the powered by USB powerbank.)
