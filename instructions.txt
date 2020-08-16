@@ -1,0 +1,17 @@
+﻿Användningsinstruktioner Spawn Timer:
+
+1: Anslut strömkälla
+2: Invänta att timern har startat upp vilket indikeras med en pipsignal från varje summer.
+3: Ställ in önskad respawn-tid genom att trycka på knappen. Varje knapptryck ökar tiden med 30 sekunder.
+4: Vänta några sekunder på att timern ska acceptera konfigurationen för att sedan upprepa den på följande sätt:
+	Timern ger ifrån sig ett långt pip för varje hel minut samt ett kort pip för en halv minut.
+	Exempel:
+		Fem knapptryck = 2m30s, bekräftas med två långa pip och ett kort.
+		tjugo knapptryck ställer in timern på 10 minuter vilket bekräftas med 10 långa pip.
+
+5: Timern är nu konfigurerad och är redo att startas.
+6: Tryck på knappen för att starta timern, vilket bekräftas med ett kort pip.
+
+Timern kommer nu räkna ner och när det är en minut kvar på timern kommer den börja varna på låg volym; följt
+av ett långt högljutt pip för att signalera att det är dags att spawna. När signalen äver över kommer timern börja
+om från början och räkna ner igen.
