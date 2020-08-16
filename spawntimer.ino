@@ -9,7 +9,7 @@ resulting in a signal exactly X seconds apart.
 Install on any Arduino compatible device (tested on Adafruit Trinket).
 
 Schematic:
-- Button connected between +5v pin and BUTTON pin (on 5v trinket, should be compatible with any voltage device).
+- Button connected between Vcc pin and BUTTON pin.
 - Signal buzzer connected between GND and BUZZER pin. Current implementation assumes an active buzzer, edit beep() if passive buzzer is to be used.
 - Smaller warning/signal buzzer between GND and WEAK_BUZZER pin. Current implementation assumes a passive buzzer, edit weakBeep() if active buzzer is to be used.
 - (Optional) artificial load resistor (Potentiometer set to approx 50-200 Ohms recommended) between GND and ARTIFICIAL_LOAD pin 
