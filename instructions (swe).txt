@@ -1,4 +1,4 @@
-Användningsinstruktioner Spawn Timer:
+Användarinstruktioner Spawn Timer:
 
 1: Anslut strömkälla
 2: Invänta att timern har startat upp vilket indikeras med två pipsignaler (en per summer).
