@@ -9,7 +9,7 @@ Användarinstruktioner Spawn Timer:
 		Fyra knapptryck ställer in timern på 2 minuter vilket bekräftas i form av två långa pip.
 		Fem knapptryck = 2m30s, bekräftas med två långa pip och ett kort.
 5: Timern är nu konfigurerad och är redo att startas.
-6: Tryck på knappen för att starta timern, vilket omedelbart bekräftas i form av en spawn-signal.
+6: Tryck på knappen för att starta timern, vilket bekräftas med ett pip.
 
 Timern räknar nu tyst ner.
 När det endast är en minut kvar till spawn kommer timern börja pipa på låg volym, snabbare och snabbare, tills att spawn-signalen går på hög volym i 3 sekunder.
