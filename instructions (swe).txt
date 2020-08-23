@@ -8,7 +8,9 @@ Användarinstruktioner Spawn Timer:
 	Exempel:
 		Fyra knapptryck ställer in timern på 2 minuter vilket bekräftas i form av två långa pip.
 		Fem knapptryck = 2m30s, bekräftas med två långa pip och ett kort.
-5: Timern är nu konfigurerad och är redo att startas.
+			
+	Timern är nu konfigurerad och är redo att startas.
+
 6: Tryck på knappen för att starta timern, vilket bekräftas med ett pip.
 
 Timern räknar nu tyst ner.
